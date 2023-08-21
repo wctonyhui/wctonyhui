@@ -7065,7 +7065,7 @@ lib.properties = {
 		
 		{src:"https://static.wixstatic.com/media/b7af9d_3dbf06a50c9948ed8262c7a433aa6bec~mv2.png", id:"piechartframeDe1101"},
 		
-		{src:"https://static.wixstatic.com/media/b7af9d_2239431565e34aa684a07daca6d60d49~mv2.pngg", id:"piechartframeDe1201"},
+		{src:"https://static.wixstatic.com/media/b7af9d_2239431565e34aa684a07daca6d60d49~mv2.png", id:"piechartframeDe1201"},
 		
 		{src:"https://static.wixstatic.com/media/b7af9d_ffe071ff0b024c04bfa57da33f704ba4~mv2.png", id:"piechartframeDe1301"},
 		
@@ -7105,7 +7105,7 @@ lib.properties = {
 		
 		{src:"https://static.wixstatic.com/media/b7af9d_f06622763fb9491897cf2678402d4d00~mv2.png", id:"piechartframeSA601"},
 		
-		{src:"https://static.wixstatic.com/media/b7af9d_6b8d6f8a32134839bca116240491e716~mv2.pngg", id:"piechartframeSA701"},
+		{src:"https://static.wixstatic.com/media/b7af9d_6b8d6f8a32134839bca116240491e716~mv2.png", id:"piechartframeSA701"},
 		
 		{src:"https://static.wixstatic.com/media/b7af9d_c799028d328842588161b0a0d9443438~mv2.png", id:"piechartframeSA801"},
 		
