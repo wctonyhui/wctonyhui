@@ -712,38 +712,38 @@ if (reversed == null) { reversed = false; }
 		}
 		var _this = this;
 		
-		this.button1.on('click', function(){window.open('https://hateams.home/knowledge/group/roboticsdagroup/roboticssolution/televisit-overview/', 'website');
+		this.button1.on('click', function(){window.open('https://hateams.home/knowledge/group/roboticsda/roboticssolution/televisit-overview/', 'website');
 		});
 		
 		
 		this.button2.on('click', function()
 		{window.open
-		('https://hateams.home/knowledge/group/roboticsdagroup/roboticssolution/geekathon-background/', 
+		('https://hateams.home/knowledge/group/roboticsda/roboticssolution/geekathon-background/', 
 			'website');
 		});
 		
 		
 		this.button3.on('click', function()
 		{window.open
-		('https://hateams.home/knowledge/group/roboticsdagroup/roboticssolution/exploration-patient-usecase1/', 
+		('https://hateams.home/knowledge/group/roboticsda/roboticssolution/exploration-patient-usecase1/', 
 			'website');
 		});
 		
 		
-		this.textbutton1.on('click', function(){window.open('https://hateams.home/knowledge/group/roboticsdagroup/roboticssolution/televisit-overview/', 'website');
+		this.textbutton1.on('click', function(){window.open('https://hateams.home/knowledge/group/roboticsda/roboticssolution/televisit-overview/', 'website');
 		});
 		
 		
 		this.textbutton2.on('click', function()
 		{window.open
-		('https://hateams.home/knowledge/group/roboticsdagroup/roboticssolution/geekathon-background/', 
+		('https://hateams.home/knowledge/group/roboticsda/roboticssolution/geekathon-background/', 
 			'website');
 		});
 		
 		
 		this.textbutton3.on('click', function()
 		{window.open
-		('https://hateams.home/knowledge/group/roboticsdagroup/roboticssolution/exploration-patient-usecase1/', 
+		('https://hateams.home/knowledge/group/roboticsda/roboticssolution/exploration-patient-usecase1/', 
 			'website');
 		});
 	}
