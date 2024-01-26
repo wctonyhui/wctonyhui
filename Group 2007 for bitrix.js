@@ -832,8 +832,8 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"https://hateams.home/upload/landing/c7e/_50_img_3@1x.png", id:"_50_img_3"},
-		{src:"https://hateams.home/upload/landing/1b4/_50_img_4@1x.png", id:"_50_img_4"},
+		{src:"https://hateams.home/upload/landing/9e3/_50_img_3_20240126_updated@1x.png", id:"_50_img_3"},
+		{src:"https://hateams.home/upload/landing/8f0/_50_img_4_20240126_updated@1x.png", id:"_50_img_4"},
 		{src:"https://hateams.home/upload/landing/144/_50_img_5@1x.png", id:"_50_img_5"}
 	],
 	preloads: []
